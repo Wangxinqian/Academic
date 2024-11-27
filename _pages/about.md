@@ -36,7 +36,7 @@ Teaching
 
 Reviewer
 ------
-- **External**
+- **Ghost Reviewing**
   - NeurIPS'23
   - ICDCS
   - ASIA CCS, Euro S&P
