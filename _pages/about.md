@@ -13,20 +13,11 @@ My research focuses on Privacy-Preserving Machine Learning, with an emphasis on 
 
 Selected Publications
 ======
-- **Title of Paper 1**  
-  Authors: Author 1, Author 2, Author 3  
-  Published in: Journal/Conference Name  
-  [Link to Paper](https://example.com/paper1)
-
-- **Title of Paper 2**  
-  Authors: Author 1, Author 2, Author 3  
-  Published in: Journal/Conference Name  
-  [Link to Paper](https://example.com/paper2)
-
-- **Title of Paper 3**  
-  Authors: Author 1, Author 2, Author 3  
-  Published in: Journal/Conference Name  
-  [Link to Paper](https://example.com/paper3)
+- **SIGuard: Guarding Secure Inference with Post Data Privacy**  
+  Authors: Xinqian Wang, Xiaoning Liu, Shangqi Lai, Xun Yi, Xingliang Yuan
+  Published in: Network and Distributed System Security (NDSS) Symposium 2025
+  To be presented...
+  #[Link to Paper](https://example.com/paper1)
 
 Getting started
 ======
