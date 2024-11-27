@@ -37,10 +37,13 @@ Teaching
 Reviewer
 ------
 - **Conference**
-  - NeurIPS'23
-  - ICDCS
-  - ASIA CCS, Euro S&P
-  - NDSS, Usenix, S&P
+  - Conference on Neural Information Processing Systems (NIPS, CORE A*): 2023
+  - Network and Distributed System Security Symposium (NDSS, CORE A*): 2025
+  - USENIX Security Symposium (USENIX, CORE A*): 2025
+  - IEEE Symposium on Security and Privacy (S&P, CORE A*): 2025
+  - IEEE European Symposium on Security and Privacy (Euro S&P, CORE A)
+  - ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS): 2025
+  - International Conference on Distributed Computing Systems (ICDCS, CORE A): 2024
 - **Journal**
-  - IEEE Transactions on Knowledge and Data Engineering (TKDE, CORE $A^*$)
-  - TDSC
+  - IEEE Transactions on Knowledge and Data Engineering (TKDE, CORE A*): 2023, 2024
+  - IEEE Transactions on Dependable and Secure Computing (TDSC, CORE A): 2023
