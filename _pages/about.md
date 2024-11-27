@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at RMIT University, working under the supervision of [Professor Xun Yi](https://scholar.google.ca/citations?user=oDRazncAAAAJ&hl=en), [Professor Ibrahim Khalil](https://scholar.google.com/citations?user=0FxVbCIAAAAJ&hl=en), and [Dr Xiaoning (Maggie) Liu](https://scholar.google.com/citations?user=hjxSs-UAAAAJ&hl=en). Prior to that, I worked as a research assistant at The University of Queensland under the supervision of [Dr Steffen Bollmann](https://scholar.google.com/citations?user=HmXlj24AAAAJ&hl=de) and [Dr Yanjun Zhang](https://scholar.google.com/citations?user=HKq2LkwAAAAJ&hl=en) (2021-2022). I received a Master of Data Science degree from The University of Queensland (2020-2021).
+I am a PhD student at RMIT University, working under the supervision of [Professor Xun Yi](https://scholar.google.ca/citations?user=oDRazncAAAAJ&hl=en), [Professor Ibrahim Khalil](https://scholar.google.com/citations?user=0FxVbCIAAAAJ&hl=en), and [Dr Xiaoning (Maggie) Liu](https://scholar.google.com/citations?user=hjxSs-UAAAAJ&hl=en). Prior to that, I worked as a research assistant at The University of Queensland under the supervision of [Dr Steffen Bollmann](https://scholar.google.com/citations?user=HmXlj24AAAAJ&hl=de) and [Dr Yanjun Zhang](https://scholar.google.com/citations?user=HKq2LkwAAAAJ&hl=en) (2021-2022). I received a Master of Data Science degree at The University of Queensland (2020-2021).
 
 My research focuses on Privacy-Preserving Machine Learning, with an emphasis on utilizing novel cryptographic techniques, such as Homomorphic Encryption and Multi-party Computation, to enable secure and efficient machine learning inference.
 
