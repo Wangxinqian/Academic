@@ -15,18 +15,26 @@ Selected Publications
 ======
 - **SIGuard: Guarding Secure Inference with Post Data Privacy**  
   **Xinqian Wang**, Xiaoning Liu, Shangqi Lai, Xun Yi, Xingliang Yuan  
-  Network and Distributed System Security (NDSS) Symposium 2025  
+  Network and Distributed System Security Symposium (**NDSS**, CORE A*) 2025  
   Link will be presented... <!-- 这是我之后paper的链接[Link to Paper](https://example.com/paper1) -->
 
 - **Model Extraction Attacks on Privacy-Preserving Deep Learning based Medical Services**  
   **Xinqian Wang**, Xiaoning Liu, Xun Yi, Xuechao Yang, Iqbal Gondal  
-  The International Web Information Systems Engineering (WISE) conference 2024  
+  The International Web Information Systems Engineering (**WISE**, CORE B) 2024  
+  Link will be presented... <!-- 这是我之后paper的链接[Link to Paper](https://example.com/paper1) -->
+
+- **Model Extraction Attack on MPC Hardened Vertical Federated Learning**  
+  **Xinqian Wang**, Xiaoning Liu, Xun Yi  
+  The International Conference on Provable and Practical Security (**ProvSec**, CORE C) 2024  
   Link will be presented... <!-- 这是我之后paper的链接[Link to Paper](https://example.com/paper1) -->  
 
 News
 ======
-- **[Nov 24]** I start building my academic page.
-- **[Nov 24]** I start building my academic page.
+- **[Dec 2024]** I present my paper at WISE 2024.
+- **[Nov 2024]** I present a poster at the School of Computing Technologies’ Doctoral Colloquium.
+- **[Sep 2024]** I present my paper at ProvSec 2024.
+- **[Nov 2023]** I present my ongoing research at the RMIT HDR Cyber Conference.
+- **[July 2023]** I participate as a student volunteer at ASIA CCS 2023.
 
 Teaching
 ------
@@ -37,13 +45,14 @@ Teaching
 Reviewer
 ------
 - **Conference**
-  - Conference on Neural Information Processing Systems (NIPS, CORE A*): 2023
-  - Network and Distributed System Security Symposium (NDSS, CORE A*): 2025
-  - USENIX Security Symposium (USENIX, CORE A*): 2025
-  - IEEE Symposium on Security and Privacy (S&P, CORE A*): 2025
-  - IEEE European Symposium on Security and Privacy (Euro S&P, CORE A)
-  - ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS): 2025
-  - International Conference on Distributed Computing Systems (ICDCS, CORE A): 2024
+  - Conference on Neural Information Processing Systems (**NIPS**, CORE A*): 2023
+  - Network and Distributed System Security Symposium (**NDSS**, CORE A*): 2025
+  - USENIX Security Symposium (**USENIX**, CORE A*): 2025
+  - IEEE Symposium on Security and Privacy (**S&P**, CORE A*): 2025
+  - IEEE European Symposium on Security and Privacy (**Euro S&P**): 2025
+  - ACM ASIA Conference on Computer and Communications Security (**ASIA CCS**, CORE A): 2025
+  - International Conference on Distributed Computing Systems (**ICDCS**, CORE A): 2024
+  - International Web Information Systems Engineering (**WISE**, CORE B): 2024
 - **Journal**
-  - IEEE Transactions on Knowledge and Data Engineering (TKDE, CORE A*): 2023, 2024
-  - IEEE Transactions on Dependable and Secure Computing (TDSC, CORE A): 2023
+  - IEEE Transactions on Knowledge and Data Engineering (**TKDE**, CORE A*): 2023, 2024
+  - IEEE Transactions on Dependable and Secure Computing (**TDSC**, CORE A): 2023
