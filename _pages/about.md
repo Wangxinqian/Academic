@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd year PhD candidate at RMIT University, working under the supervision of [Professor Xun Yi](https://scholar.google.ca/citations?user=oDRazncAAAAJ&hl=en), [Professor Ibrahim Khalil](https://scholar.google.com/citations?user=0FxVbCIAAAAJ&hl=en), and [Dr Xiaoning (Maggie) Liu](https://maggichk.github.io/service.html). Prior to that, I worked as a research assistant at The University of Queensland(2021-2022). I received a Master of Data Science degree at The University of Queensland (2020-2021).
+I am a 3rd year PhD candidate at RMIT University, working under the supervision of [Professor Xun Yi](https://scholar.google.ca/citations?user=oDRazncAAAAJ&hl=en), [Professor Ibrahim Khalil](https://scholar.google.com/citations?user=0FxVbCIAAAAJ&hl=en), and [Dr Xiaoning (Maggie) Liu](https://maggichk.github.io/service.html). Prior to that, I worked as a research assistant at The University of Queensland (2021-2022). I received a Master of Data Science degree at The University of Queensland (2020-2021).
 
 My research focuses on Privacy-Preserving Machine Learning, with an emphasis on utilizing novel cryptographic techniques, such as Homomorphic Encryption and Multi-party Computation, to enable secure and efficient machine learning inference.
 
