@@ -14,8 +14,8 @@ My research focuses on Privacy-Preserving Machine Learning, with an emphasis on 
 Selected Publications
 ======
 - **SIGuard: Guarding Secure Inference with Post Data Privacy**  
-  Authors: Xinqian Wang, Xiaoning Liu, Shangqi Lai, Xun Yi, Xingliang Yuan
-  Published in: Network and Distributed System Security (NDSS) Symposium 2025
+  [Xinqian Wang], Xiaoning Liu, Shangqi Lai, Xun Yi, Xingliang Yuan
+  Network and Distributed System Security (NDSS) Symposium 2025
   To be presented...
   % [Link to Paper](https://example.com/paper1)
 
