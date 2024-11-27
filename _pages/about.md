@@ -20,7 +20,7 @@ Selected Publications
 
 - **Model Extraction Attacks on Privacy-Preserving Deep Learning based Medical Services**  
   **Xinqian Wang**, Xiaoning Liu, Xun Yi, Xuechao Yang, Iqbal Gondal  
-  The International Web Information Systems Engineering (WISE) conference 2025  
+  The International Web Information Systems Engineering (WISE) conference 2024  
   Link will be presented... <!-- 这是我之后paper的链接[Link to Paper](https://example.com/paper1) -->  
 
 Getting started
