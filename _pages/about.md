@@ -16,6 +16,11 @@ Selected Publications
 - **SIGuard: Guarding Secure Inference with Post Data Privacy**  
   **Xinqian Wang**, Xiaoning Liu, Shangqi Lai, Xun Yi, Xingliang Yuan  
   Network and Distributed System Security (NDSS) Symposium 2025  
+  Link will be presented... <!-- 这是我之后paper的链接[Link to Paper](https://example.com/paper1) -->
+
+- **Model Extraction Attacks on Privacy-Preserving Deep Learning based Medical Services**  
+  **Xinqian Wang**, Xiaoning Liu, Xun Yi, Xuechao Yang, Iqbal Gondal  
+  The International Web Information Systems Engineering (WISE) conference 2025  
   Link will be presented... <!-- 这是我之后paper的链接[Link to Paper](https://example.com/paper1) -->  
 
 Getting started
