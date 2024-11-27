@@ -16,22 +16,7 @@ Selected Publications
 - **SIGuard: Guarding Secure Inference with Post Data Privacy**  
   **Xinqian Wang**, Xiaoning Liu, Shangqi Lai, Xun Yi, Xingliang Yuan  
   Network and Distributed System Security (NDSS) Symposium 2025  
-  To be presented...<!-- 这是我之后paper的链接[Link to Paper](https://example.com/paper1) -->  
-  
-- **Title of Paper 1**  
-  Authors: Author 1, Author 2, Author 3  
-  Published in: Journal/Conference Name  
-  [Link to Paper](https://example.com/paper1)
-
-- **Title of Paper 2**  
-  Authors: Author 1, Author 2, Author 3  
-  Published in: Journal/Conference Name  
-  [Link to Paper](https://example.com/paper2)
-
-- **Title of Paper 3**  
-  Authors: Author 1, Author 2, Author 3  
-  Published in: Journal/Conference Name  
-  [Link to Paper](https://example.com/paper3)
+  Link will be presented... <!-- 这是我之后paper的链接[Link to Paper](https://example.com/paper1) -->  
 
 Getting started
 ======
