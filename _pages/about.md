@@ -40,6 +40,6 @@ Reviewer
   - NeurIPS'23
   - ICDCS
   - ASIA CCS, Euro S&P
-  - NDSS, Usenix, NDSS, S&P
+  - NDSS, Usenix, S&P
 - **TKDE**
 - **TDSC**
