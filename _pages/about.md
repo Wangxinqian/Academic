@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at RMIT University, working under the supervision of [Professor Xun Yi](https://scholar.google.ca/citations?user=oDRazncAAAAJ&hl=en), [Professor Ibrahim Khalil](https://scholar.google.com/citations?user=0FxVbCIAAAAJ&hl=en), and [Dr Xiaoning (Maggie) Liu](https://scholar.google.com/citations?user=hjxSs-UAAAAJ&hl=en).
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a PhD student at RMIT University, working under the supervision of [Professor Xun Yi](https://scholar.google.ca/citations?user=oDRazncAAAAJ&hl=en), [Professor Ibrahim Khalil](https://scholar.google.com/citations?user=0FxVbCIAAAAJ&hl=en), and [Dr Xiaoning (Maggie) Liu](https://scholar.google.com/citations?user=hjxSs-UAAAAJ&hl=en). Prior to that, I worked as a research assistant at The University of Queensland under the supervision of [Dr Steffen Bollmann](https://scholar.google.com/citations?user=HmXlj24AAAAJ&hl=de) and [Dr Yanjun Zhang](https://scholar.google.com/citations?user=HKq2LkwAAAAJ&hl=en) (2021-2022). I received a Master of Data Science degree from The University of Queensland (2020-2021).
+
+My research focuses on Privacy-Preserving Machine Learning, with an emphasis on utilizing novel cryptographic techniques, such as Homomorphic Encryption and Multi-party Computation, to enable secure and efficient machine learning inference.
 
 A data-driven personal website
 ======
