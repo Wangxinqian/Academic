@@ -45,10 +45,10 @@ Teaching
 Reviewer
 ------
 - **Conference**
-  - Conference on Neural Information Processing Systems (**NIPS**, CORE A*): 2023
   - Network and Distributed System Security Symposium (**NDSS**, CORE A*): 2025
   - USENIX Security Symposium (**USENIX**, CORE A*): 2025
   - IEEE Symposium on Security and Privacy (**S&P**, CORE A*): 2025
+  - Conference on Neural Information Processing Systems (**NIPS**, CORE A*): 2023
   - IEEE European Symposium on Security and Privacy (**Euro S&P**): 2025
   - ACM ASIA Conference on Computer and Communications Security (**ASIA CCS**, CORE A): 2025
   - International Conference on Distributed Computing Systems (**ICDCS**, CORE A): 2024
