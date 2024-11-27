@@ -36,10 +36,11 @@ Teaching
 
 Reviewer
 ------
-- **Ghost Reviewing**
+- **Conference**
   - NeurIPS'23
   - ICDCS
   - ASIA CCS, Euro S&P
   - NDSS, Usenix, S&P
-- **TKDE**
-- **TDSC**
+- **Journal**
+  - IEEE Transactions on Knowledge and Data Engineering (TKDE, CORE $A^*$)
+  - TDSC
