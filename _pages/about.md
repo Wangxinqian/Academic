@@ -30,6 +30,7 @@ Selected Publications
 
 News
 ======
+- **[Dec 2024]** As a tutor, our course, NTE2547/2580 Security Testing (Semester 2, 2024), has been awarded the Top Five Course with the highest OSI in STEM College. A big thank you to everyone who enrolled in the course and to all the members of the teaching team.
 - **[Dec 2024]** I present my paper at WISE 2024.
 - **[Nov 2024]** I present a poster at the School of Computing Technologies’ Doctoral Colloquium.
 - **[Sep 2024]** I present my paper at ProvSec 2024.
