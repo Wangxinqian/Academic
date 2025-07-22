@@ -58,5 +58,5 @@ Reviewer
   - International Conference on Distributed Computing Systems (**ICDCS**, CORE A): 2024
   - International Web Information Systems Engineering (**WISE**, CORE B): 2024
 - **Journal**
-  - IEEE Transactions on Knowledge and Data Engineering (**TKDE**, CORE A*): 2023, 2024
+  - IEEE Transactions on Knowledge and Data Engineering (**TKDE**, CORE A*): 2023, 2024, 2025
   - IEEE Transactions on Dependable and Secure Computing (**TDSC**, CORE A): 2023
