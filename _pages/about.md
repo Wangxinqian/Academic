@@ -30,6 +30,8 @@ Selected Publications
 
 News
 ======
+- **[July 2025]** As a tutor, our course, INTE2401/2402 Cloud Security (Semester 2, 2025), has been awarded the Top Five Course with the highest OSI in STEM College. Thank you to all enrolled students and every member of the teaching team.
+- **[Feb 2025]** I present my paper at NDSS 2025.
 - **[Dec 2024]** As a tutor, our course, NTE2547/2580 Security Testing (Semester 2, 2024), has been awarded the Top Five Course with the highest OSI in STEM College. A big thank you to everyone who enrolled in the course and to all the members of the teaching team.
 - **[Dec 2024]** I present my paper at WISE 2024.
 - **[Nov 2024]** I present a poster at the School of Computing Technologies’ Doctoral Colloquium.
@@ -40,6 +42,7 @@ News
 Teaching
 ------
 - **RMIT University**
+  - Tutor, S1, 2025, Cloud Security (INTE2401/2402).
   - Tutor, S1, 2024, Cloud Security (INTE2401/2402).
   - Tutor, S2, 2024, Security Testing (INTE2547/2580).
 
