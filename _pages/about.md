@@ -51,13 +51,14 @@ Reviewer
 ------
 - **Conference**
   - Network and Distributed System Security Symposium (**NDSS**, CORE A*): 2025
-  - USENIX Security Symposium (**USENIX**, CORE A*): 2025
+  - USENIX Security Symposium (**USENIX**, CORE A*): 2025, 2026
   - IEEE Symposium on Security and Privacy (**S&P**, CORE A*): 2025
   - Conference on Neural Information Processing Systems (**NIPS**, CORE A*): 2023
+  - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**, CORE A*): 2025, 2026
   - IEEE European Symposium on Security and Privacy (**Euro S&P**): 2025
   - ACM ASIA Conference on Computer and Communications Security (**ASIA CCS**, CORE A): 2025
   - International Conference on Distributed Computing Systems (**ICDCS**, CORE A): 2024
-  - International Web Information Systems Engineering (**WISE**, CORE B): 2024
+  - International Web Information Systems Engineering (**WISE**, CORE B): 2024, 2025
 - **Journal**
   - IEEE Transactions on Knowledge and Data Engineering (**TKDE**, CORE A*): 2023, 2024, 2025
   - IEEE Transactions on Dependable and Secure Computing (**TDSC**, CORE A): 2023
