@@ -30,6 +30,7 @@ Selected Publications
 
 News
 ======
+- **[Sep 2025]** I receive the 2024 reviewer certificates for IEEE **TKDE** and IEEE **TDSC**.
 - **[Aug 2025]** As a guest lecturer, I was honoured to give a talk in Week 6 of NTE2547/2580 Security Testing (Semester 2, 2025). I designed the curriculum by briefly introducing the topics of AI security.
 - **[July 2025]** As a tutor, our course, INTE2401/2402 Cloud Security (Semester 2, 2025), has been awarded the Top Five Course with the highest OSI in STEM College. Thank you to all enrolled students and every member of the teaching team.
 - **[Feb 2025]** I present my paper at NDSS 2025.
