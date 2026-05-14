@@ -13,20 +13,21 @@ My research focuses on Privacy-Preserving Machine Learning, with an emphasis on 
 
 Selected Publications
 ======
+- **Hardening Output Privacy for Secure Inference: a Lightweight Realization via Distributed Trust**
+  **Xinqian Wang**, Xiaoning Liu, Shangqi Lai, Xun Yi, Ibrahim Khalil, Kwok-Yan Lam
+  IEEE International Conference on Distributed Computing Systems (**ICDCS**, CORE A) 2026
+  
 - **SIGuard: Guarding Secure Inference with Post Data Privacy**  
   **Xinqian Wang**, Xiaoning Liu, Shangqi Lai, Xun Yi, Xingliang Yuan  
   Network and Distributed System Security Symposium (**NDSS**, CORE A*) 2025  
-  Link will be presented... <!-- 这是我之后paper的链接[Link to Paper](https://example.com/paper1) -->
 
 - **Model Extraction Attacks on Privacy-Preserving Deep Learning based Medical Services**  
   **Xinqian Wang**, Xiaoning Liu, Xun Yi, Xuechao Yang, Iqbal Gondal  
   The International Web Information Systems Engineering (**WISE**, CORE B) 2024  
-  Link will be presented... <!-- 这是我之后paper的链接[Link to Paper](https://example.com/paper1) -->
 
 - **Model Extraction Attack on MPC Hardened Vertical Federated Learning**  
   **Xinqian Wang**, Xiaoning Liu, Xun Yi  
-  The International Conference on Provable and Practical Security (**ProvSec**, CORE C) 2024  
-  Link will be presented... <!-- 这是我之后paper的链接[Link to Paper](https://example.com/paper1) -->  
+  The International Conference on Provable and Practical Security (**ProvSec**, CORE C) 2024   
 
 News
 ======
