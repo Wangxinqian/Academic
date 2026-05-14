@@ -13,7 +13,7 @@ My research focuses on Privacy-Preserving Machine Learning, with an emphasis on 
 
 Selected Publications
 ======
-- **Hardening Output Privacy for Secure Inference: a Lightweight Realization via Distributed Trust**
+- **Hardening Output Privacy for Secure Inference: a Lightweight Realization via Distributed Trust**  
   **Xinqian Wang**, Xiaoning Liu, Shangqi Lai, Xun Yi, Ibrahim Khalil, Kwok-Yan Lam
   IEEE International Conference on Distributed Computing Systems (**ICDCS**, CORE A) 2026
   
